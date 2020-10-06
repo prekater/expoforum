@@ -1,12 +1,4 @@
 
-.buttons{
-    width: 30px;
-    height: 30px;
-    background-color:  #F6404F;
-    background-image: url('images/speech-bubble.png');
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-}
 @font-face {
     font-family: circe;
     src: url(fonts/circe.ttf);  
@@ -289,4 +281,13 @@ footer ul a{
 input {
     border: none;
     color: #9C9C9C;
+}
+
+.buttons{
+    width: 30px;
+    height: 30px;
+    background-color:  #F6404F;
+    background-image: url('images/speech-bubble.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
 }
