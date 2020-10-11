@@ -89,9 +89,9 @@ h3 {
 }
 
 .slider {
-    align-self: center;
+    /* align-self: center; */
     width: 50%;
-    padding-bottom: 50px;
+    padding-top: 200px; 
 }
 .slider a {
     text-decoration: none;
@@ -109,11 +109,11 @@ h3 {
 }
 .main-sections{
     display: flex;
-    align-self: flex-end;
+    /* align-self: flex-end; */
     justify-content: center;
     width: 50%;
     flex-wrap: wrap;
-    padding-top: 330px;
+    padding-top: 320px;
 
 }
 .main-sections a {
