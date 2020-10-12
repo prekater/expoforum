@@ -794,6 +794,7 @@
     .slider {
         width: 50%;
         margin-top: 0; 
+        padding-top: 120px;
     }
     .slider h1 {
         font-size: 64px;    
@@ -814,7 +815,7 @@
         justify-content: space-between;
         width: 50%;
         flex-wrap: wrap;
-        padding-top: 320px;
+        padding-top: 290px;
     
     }
     .main-sections a {
@@ -941,6 +942,9 @@
     }
     .newsVK img {
         margin-right: 20px;
+    }
+    .dataVK {
+        margin-bottom: 15px;
     }
     .descriptionVK {
         font-family:  "plumb", "PT Sans", "Arial", sans-serif;
